@@ -1,0 +1,6 @@
+{
+  "name": "Amrit Dairy Portal",
+  "description": "An interactive operational, simulation, and management portal for Amrit Dairy covering procurement, production, sales, finance, logistics, and customer service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
